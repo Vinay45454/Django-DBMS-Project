@@ -26,7 +26,7 @@ This pipeline allows MongoDB data to be fed directly into Llama 3.1, enabling th
 3. Backend API: Handles data requests and responses between MongoDB and Llama 3.1.
 4. Front-end or API Clients: Consumes the generated analytical results for visualization or reporting.
 
-![Architecture Diagram](architecture-diagram.png) _[Placeholder for an architectural diagram]_
+![Architecture Diagram](Llama.png) _[Placeholder for an architectural diagram]_
 
 ## Setup
 
